@@ -1,0 +1,17 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/**/*.apk
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.unityproj
+.DS_Store
+
+# tambahan
+*.apk
+*.zip
+.utmp/
+build/
